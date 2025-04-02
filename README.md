@@ -6,21 +6,21 @@ Tenho 17 anos e estou finalizando o Ensino Médio. Apaixonado por tecnologia, ir
 
 ## 🚀 Projetos
 
-<div style="display: flex; flex-direction: colunm;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; padding-bottom: 30px;">
 
 <!-- Projeto 1 - Counter-->
-<div style="width: 150px; border: 1px solid #30363d; border-radius: 8px; padding: 10px; background: #0d1117; margin: 0 25px 0 0">
+<div style="width: 300px; border: 1px solid #30363d; border-radius: 8px; padding: 10px; background: #0d1117; margin: 0 25px 0 0">
   <a href="https://github.com/chriszanella/counter" target="_blank">
-    <img src="./counter.png" width="100%" style="border-radius: 5px;">
+    <img src="./counter.png" width="25%" style="border-radius: 5px;">
     <h3 style="color: #9333ea;">Counter</h3>
     <p style="color: #8b949e;">Contador <strong style="color: #9333ea;">Especial</strong></p>
   </a>
 </div>
 
 <!-- Projeto 2 - Color Flipper -->
-<div style="width: 150px; border: 1px solid #30363d; border-radius: 8px; padding: 10px; background: #0d1117; margin: 0 25px 0 0">
+<div style="width: 300px; border: 1px solid #30363d; border-radius: 8px; padding: 10px; background: #0d1117; margin: 0 25px 0 0">
   <a href="https://github.com/chriszanella/color-flipper" target="_blank">
-    <img src="./color-flipper.png" width="100%" style="border-radius: 5px;">
+    <img src="./color-flipper.png" width="25%" style="border-radius: 5px;">
     <h3 style="color: #9333ea;">Color Flipper</h3>
     <p style="color: #8b949e;">Fliperama de <strong style="color: #9333ea;">Cores</strong></p>
   </a>
