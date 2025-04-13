@@ -20,3 +20,7 @@ Tenho 17 anos e estou finalizando o Ensino Médio. Apaixonado por tecnologia, ir
 
 <!--Badge Git -->
 <img align="bottom" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+## 📊 Stats
+
+![Christian Z Silva](https://github-readme-stats.vercel.app/api?username=chriszanella&show_icons=true&theme=github_dark_dimmed)
