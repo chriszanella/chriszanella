@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 <!-- Sobre Mim -->
-Tenho 17 anos e estou finalizando o Ensino Médio. Apaixonado por tecnologia, irei cursar **Engenharia de Software** e me tornar um **Desenvolvedor FullStack**. Atualmente, estudo de forma autodidata, explorando tanto o front-end quanto o back-end para construir soluções completas e eficientes.
+Apaixonado por tecnologia, irei cursar **Engenharia de Software** e me tornar um **Desenvolvedor FullStack**. Atualmente, estudo de forma autodidata, explorando tanto o front-end quanto o back-end para construir soluções completas e eficientes.
 
 ## 💻 Tecnologias
 
