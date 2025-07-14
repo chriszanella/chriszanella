@@ -2,7 +2,7 @@
 
 **`Developer`** **`Addon Maker`** **`Linux`**
 
-Apaixonado por tecnologia, irei cursar **Engenharia de Software** eu tornar hum **Pilha completa do Desenvolvedor**. Atualização, estudo de forma autodidata, explorando tanto o front-end quanto o back-end para construir soluções completas e eficientes.
+Apaixonado por tecnologia, irei cursar **Engenharia de Software** eu tornar hum **Fullstack Developer**. Atualização, estudo de forma autodidata, explorando tanto o front-end quanto o back-end para construir soluções completas e eficientes.
 
 ---
 
