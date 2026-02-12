@@ -20,7 +20,10 @@ Apaixonado por tecnologia, irei cursar **Engenharia de Software** eu tornar hum 
 ## 🔩 Ferramentas
 
 <p style="display: flex; align-items: center; gap: 10px;">
+  <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
   <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img alt="ArchLinux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" 
+    />
   <img alt="Fedora" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" />
   <img alt="Ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </p>
@@ -30,6 +33,7 @@ Apaixonado por tecnologia, irei cursar **Engenharia de Software** eu tornar hum 
 ## 🧠 Estudando
 
 <p stylw="display: flex; align-items: center; gap: 10px;">
+  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Typescript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
   <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
